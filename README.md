@@ -11,22 +11,23 @@ it’s a python script that turns an image into ascii art.
 
 # instructions
 
-## clone repository
+## 1. clone repository
 
 ```
 git clone https://github.com/vmaeo/asciigen.git
 ```
 
-## add your image to directory
+## 2. add your image to directory
 
-## modify ``main.py``
+## 3. modify ``main.py``
 
 simply modify in line 5: 'pic-name-here.jpg/png/etc.' with the name of the image you want to use.
 
-## run the script
+## 4. run the script
 
 ```
 $ ./main.py
 ```
+
 
 
